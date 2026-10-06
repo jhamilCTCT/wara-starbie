@@ -1,0 +1,291 @@
+ERC report (2026-10-06T16:25:43, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[label_dangling]: Label not connected
+    ; error
+    @(20.32 mm, 50.80 mm): Label 'CC2'
+[label_dangling]: Label not connected
+    ; error
+    @(20.32 mm, 55.88 mm): Label 'CC1'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(25.40 mm, 55.88 mm): Pin 2 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(76.20 mm, 60.96 mm): Pin 5 [???, ?]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(86.36 mm, 60.96 mm): Horizontal Wire, length 8.89 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(96.52 mm, 63.50 mm): Pin 2 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(106.68 mm, 69.85 mm): Pin 1 [???, ?]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(114.30 mm, 68.58 mm): Horizontal Wire, length 2.54 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(124.46 mm, 71.12 mm): Pin 1 [???, ?]
+[label_dangling]: Label not connected
+    ; error
+    @(137.16 mm, 71.12 mm): Label 'VBAT_SW'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(149.86 mm, 82.55 mm): Pin 2 [???, ?]
+[label_dangling]: Label not connected
+    ; error
+    @(150.00 mm, 74.93 mm): Label 'GND'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(160.02 mm, 71.12 mm): Pin 3 [???, ?]
+[label_dangling]: Label not connected
+    ; error
+    @(177.80 mm, 71.12 mm): Label '+3V3'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(177.80 mm, 82.55 mm): Pin 2 [???, ?]
+[label_dangling]: Label not connected
+    ; error
+    @(196.85 mm, 74.93 mm): Label 'IMU_INT2'
+[label_dangling]: Label not connected
+    ; error
+    @(196.85 mm, 77.47 mm): Label 'IMU_INT1'
+[label_dangling]: Label not connected
+    ; error
+    @(196.85 mm, 80.01 mm): Label 'UART_RX'
+[label_dangling]: Label not connected
+    ; error
+    @(196.85 mm, 82.55 mm): Label 'UART_TX'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 128.27 mm): Pin 5 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(220.98 mm, 69.85 mm): Pin 3 [???, ?]
+[label_dangling]: Label not connected
+    ; error
+    @(228.60 mm, 130.81 mm): Label 'I2C_SDA'
+[label_dangling]: Label not connected
+    ; error
+    @(238.76 mm, 67.31 mm): Label 'BTN_FEED'
+[label_dangling]: Label not connected
+    ; error
+    @(238.76 mm, 69.85 mm): Label 'I2C_SCL'
+[label_dangling]: Label not connected
+    ; error
+    @(238.76 mm, 74.93 mm): Label 'LED_USER'
+[label_dangling]: Label not connected
+    ; error
+    @(238.76 mm, 77.47 mm): Label 'BUZZER_DRV'
+[label_dangling]: Label not connected
+    ; error
+    @(238.76 mm, 80.01 mm): Label 'BTN_SELECT'
+[label_dangling]: Label not connected
+    ; error
+    @(238.76 mm, 82.55 mm): Label 'BTN_MENU'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(251.46 mm, 104.14 mm): Pin 1 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(251.46 mm, 110.49 mm): Pin 2 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 10.16 mm): Pin 1 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 20.32 mm): Pin 2 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 95.25 mm): Pin 1 [???, ?]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(259.08 mm, 10.16 mm): Horizontal Wire, length 17.78 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(259.08 mm, 20.32 mm): Horizontal Wire, length 17.78 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(259.08 mm, 95.25 mm): Horizontal Wire, length 15.24 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(279.40 mm, 90.17 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(279.40 mm, 95.25 mm): Pin 2 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(280.67 mm, 10.16 mm): Pin 1 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(280.67 mm, 20.32 mm): Pin 2 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(280.67 mm, 40.64 mm): Pin 1 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(280.67 mm, 55.88 mm): Pin 2 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(280.67 mm, 71.12 mm): Pin 2 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(280.67 mm, 125.73 mm): Pin 1 [???, ?]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(280.67 mm, 160.02 mm): Pin 1 [???, ?]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(305.435 mm, 93.98 mm): Horizontal Wire, length 20.955 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(310.515 mm, 95.25 mm): Pin 2 [???, ?]
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(15.24 mm, 50.80 mm): Horizontal Wire, length 5.08 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(15.24 mm, 55.88 mm): Horizontal Wire, length 5.08 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(15.24 mm, 60.96 mm): Horizontal Wire, length 5.08 mm
+[multiple_net_names]: Tanto BAT+ como USB_5V están conectados a los mismos elementos; se utilizará BAT+ en el listado de redes
+    ; warning
+    @(63.50 mm, 60.96 mm): Label 'BAT+'
+    @(20.32 mm, 60.96 mm): Label 'USB_5V'
+[footprint_link_issues]: La huella 'USB_C_Receptacle_USB2.0' no se encontró en la biblioteca 'Connector_USB'
+    ; warning
+    @(25.40 mm, 55.88 mm): Symbol J1 [USB_C_Power]
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(25.40 mm, 60.96 mm): Horizontal Wire, length 38.10 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(35.56 mm, 50.80 mm): Horizontal Wire, length 7.62 mm
+[pin_to_pin]: Pines del tipo No especificado y No especificado están conectados
+    ; warning
+    @(35.56 mm, 55.88 mm): Pin 1 [???, ?]
+    @(35.56 mm, 50.80 mm): Pin 1 [???, ?]
+[pin_to_pin]: Pines del tipo No especificado y No especificado están conectados
+    ; warning
+    @(35.56 mm, 55.88 mm): Pin 2 [???, ?]
+    @(35.56 mm, 50.80 mm): Pin 1 [???, ?]
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(35.56 mm, 55.88 mm): Horizontal Wire, length 7.62 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(66.04 mm, 60.96 mm): Horizontal Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(86.36 mm, 60.96 mm): Horizontal Wire, length 8.89 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(86.36 mm, 60.96 mm): Horizontal Wire, length 8.89 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(99.06 mm, 58.42 mm): Vertical Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(99.06 mm, 66.04 mm): Vertical Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(114.30 mm, 68.58 mm): Horizontal Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(114.30 mm, 68.58 mm): Horizontal Wire, length 2.54 mm
+[footprint_link_issues]: La huella 'SW_SPST' no se encontró en la biblioteca 'Button_Switch_SMD'
+    ; warning
+    @(124.46 mm, 71.12 mm): Symbol SW1 [SW_SPST_Simple]
+[footprint_link_issues]: La huella 'Seeed_XIAO' no se encontró en la biblioteca 'Module'
+    ; warning
+    @(220.98 mm, 69.85 mm): Symbol U1 [XIAO_RP2040_Module]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(249.555 mm, 95.25 mm): Horizontal Wire, length 0.635 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(249.555 mm, 95.25 mm): Horizontal Wire, length 0.635 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(251.46 mm, 10.16 mm): Horizontal Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(251.46 mm, 20.32 mm): Horizontal Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(259.08 mm, 10.16 mm): Horizontal Wire, length 17.78 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(259.08 mm, 20.32 mm): Horizontal Wire, length 17.78 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(259.08 mm, 95.25 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(259.08 mm, 95.25 mm): Horizontal Wire, length 15.24 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(259.08 mm, 10.16 mm): Horizontal Wire, length 17.78 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(259.08 mm, 20.32 mm): Horizontal Wire, length 17.78 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(279.40 mm, 90.17 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(279.40 mm, 90.17 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(279.40 mm, 100.33 mm): Vertical Wire, length 2.54 mm
+[footprint_link_issues]: La huella 'SW_SPST' no se encontró en la biblioteca 'Button_Switch_SMD'
+    ; warning
+    @(280.67 mm, 40.64 mm): Symbol SW2 [SW_Push_Simple]
+[footprint_link_issues]: La huella 'SW_SPST' no se encontró en la biblioteca 'Button_Switch_SMD'
+    ; warning
+    @(280.67 mm, 55.88 mm): Symbol SW3 [SW_Push_Simple]
+[footprint_link_issues]: La huella 'SW_SPST' no se encontró en la biblioteca 'Button_Switch_SMD'
+    ; warning
+    @(280.67 mm, 71.12 mm): Symbol SW4 [SW_Push_Simple]
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(284.48 mm, 10.16 mm): Horizontal Wire, length 1.52 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(284.48 mm, 20.32 mm): Horizontal Wire, length 1.52 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(305.435 mm, 93.98 mm): Horizontal Wire, length 20.955 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(284.48 mm, 10.16 mm): Horizontal Wire, length 1.52 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(284.48 mm, 20.32 mm): Horizontal Wire, length 1.52 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(305.435 mm, 93.98 mm): Horizontal Wire, length 20.955 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(305.435 mm, 93.98 mm): Horizontal Wire, length 20.955 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(305.435 mm, 96.52 mm): Horizontal Wire, length 4.445 mm
+[unconnected_wire_endpoint]: Extremo de línea sin conectar
+    ; warning
+    @(305.435 mm, 96.52 mm): Horizontal Wire, length 4.445 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(310.515 mm, 95.25 mm): Pin 1 [???, ?]
+
+ ** ERC messages: 92  Errors 47  Warnings 45
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
